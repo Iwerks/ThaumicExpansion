@@ -1,0 +1,18 @@
+[
+{
+	"modid" : "ThaumicExpansion",
+	"name" : "Thaumic Expansion",
+	"version" : "0.1a",
+	"credits" : "Thanks to tterrag1098, TehNut, Professor29, Tombenpotter, Azanor, Team CoFH, and the Ars Praxis server."
+	"authors" : [
+		"Ganzu"
+	],
+	"description" : "Thaumcraft meets Thermal Expansion.",
+	"url" : "N/A"
+	"updateUrl" : "",
+	"logoFile" : "",
+	"parent" : "",
+	"screenshots" : [
+	]
+}
+]
